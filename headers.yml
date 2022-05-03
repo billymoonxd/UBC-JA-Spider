@@ -1,0 +1,7 @@
+headers:
+  content-type: application/json;charset=UTF-8
+  user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+url: https://journal-abbreviations.library.ubc.ca/dump.php
+payload: #Optional
+  callback: jQuery112407468856981953322_1651245786701
+  _: 1651245786705
